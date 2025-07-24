@@ -23,6 +23,5 @@ int main(int argc, char *argv[])
 
   printf("That's good. You guessed it.\n");
   printf("The numer is %d\n", magic_num);
-
 return 0;
 }
