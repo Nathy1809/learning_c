@@ -15,13 +15,13 @@ int main()
     scanf("%d",&option);
 
     switch (option){
-case 1:
+    case 1:
     printf("\nYou booked for Yaya Beach\n");
     break;
-case 2:
+    case 2:
     printf("\nYou booked for El fuerte\n");
     break;
-case 3:
+    case 3:
     printf("\nYou booked for Hayhu\n");
     break;
 
